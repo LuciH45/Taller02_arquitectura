@@ -17,5 +17,5 @@ ENV AWS_REGION="us-east-2"
 EXPOSE 8080
 
 # Specify the command to run the Flask app
-CMD ["python", "randomquotes.py"]
+CMD ["python", "app.py"]
 
