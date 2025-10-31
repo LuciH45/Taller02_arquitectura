@@ -207,7 +207,7 @@ if __name__ == '__main__':
 
 
 """
-Pegar en la terminal para ejecutar la aplicación:
+.Pegar en la terminal para ejecutar la aplicación:
  1. En caso de que la terminal sea powershell: $env:S3_BUCKET="s3-bucket-378388076569"
  2. En caso de que la terminal sea powershell: $env:AWS_REGION="us-east-2"
  3. Ejecutar: python app.py
